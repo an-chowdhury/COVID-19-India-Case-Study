@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/an-chowdhury/COVID-19-India-Case-Study">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/an-chowdhury/COVID-19-India-Case-Study"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/an-chowdhury/COVID-19-India-Case-Study">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/an-chowdhury/COVID-19-India-Case-Study/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/an-chowdhury/COVID-19-India-Case-Study/issues">Request Feature</a>
   </p>
 </p>
 
@@ -45,5 +45,5 @@
 [license-shield]: https://img.shields.io/github/license/an-chowdhury/COVID-19-India-Case-Study?style=for-the-badge
 [license-url]: https://github.com/an-chowdhury/COVID-19-India-Case-Study/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/ankan-chowdhury-00bb3b141/
 [product-screenshot]:
