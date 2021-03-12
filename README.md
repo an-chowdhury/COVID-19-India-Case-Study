@@ -1,5 +1,4 @@
-# COVID 19 India Data Analysis using Python
-![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -15,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center"># COVID 19 India Data Analysis using Python</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
