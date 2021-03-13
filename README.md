@@ -23,28 +23,26 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
+## Table of Contents
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Introduction-to-the-project">Introduction To The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Summery">Summery</a></li>
+        <li><a href="#Necessary-Tools-&-Packages">Necessary Tools & Packages</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Step-by-Step-Procedure">Step by Step Procedure</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Data-Collection-Cleaning">Data Collection & Cleaning</a></li>
+        <li><a href="#Analysis-&-Visualization">Analysis & Visualization</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Reference">Reference</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -52,7 +50,7 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/an-chowdhury/COVID-19-India-Case-Study?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/an-chowdhury/COVID-19-India-Case-Study?style=for-the-badge
 [contributors-url]: https://github.com/an-chowdhury/COVID-19-India-Case-Study/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/an-chowdhury/COVID-19-India-Case-Study?style=for-the-badge
 [forks-url]: https://github.com/an-chowdhury/COVID-19-India-Case-Study/network/members
@@ -64,4 +62,3 @@
 [license-url]: https://github.com/an-chowdhury/COVID-19-India-Case-Study/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ankan-chowdhury-00bb3b141/
-[product-screenshot]:
