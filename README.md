@@ -12,7 +12,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">COVID 19 India Data Analysis using Python</h3>
+  <h1 align="center">COVID 19 India Data Analysis using Python</h1>
 
   <p align="center">
     <br />
@@ -52,7 +52,7 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/an-chowdhury/COVID-19-India-Case-Study?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/an-chowdhury/COVID-19-India-Case-Study?style=flat
 [contributors-url]: https://github.com/an-chowdhury/COVID-19-India-Case-Study/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/an-chowdhury/COVID-19-India-Case-Study?style=for-the-badge
 [forks-url]: https://github.com/an-chowdhury/COVID-19-India-Case-Study/network/members
