@@ -24,7 +24,7 @@
   <summary>Contents</summary>
   <ol>
     <li>
-      <a href="#Introduction-to-the-project">Introduction To The Project</a>
+      <a href="#Background">Background</a>
       <ul>
         <li><a href="#Summery">Summery</a></li>
         <li><a href="#Project-Objective">Project Objective</a></li>
@@ -32,7 +32,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Analysis-&-Visualization">Analysis & Visualization</a>
+      <a href="#Findings">Findings</a>
       <ul>
         </ul>
     </li>
@@ -41,7 +41,7 @@
   </ol>
 </details>
 
-## Introduction To The Project
+## Background
 
 ![product-screenshot]
 
@@ -59,7 +59,7 @@ how the virus has affected people from different regions, age groups etc. In a n
 * population data is collected from [Wikipedia.](https://en.wikipedia.org/wiki/Demographics_of_India)
 * Coordinates of indian States obtained from [Geohacker's Github repository.](https://github.com/geohacker/india)
 
-### Analysis & Visualization
+### Findings
 ![Figure-1]
 **Figure1** shows cumulative sum of all confrimed, recovered, deceased and active cases through line chart which to a good approximation, are distributed over the days since origination.
 
